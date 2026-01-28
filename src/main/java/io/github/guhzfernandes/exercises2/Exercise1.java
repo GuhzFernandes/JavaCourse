@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises2;
 //write a java program that allows the user to enter 10 number and give their sum.
 
 import java.util.Scanner;

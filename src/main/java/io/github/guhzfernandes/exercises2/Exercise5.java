@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises2;
 // Write a java program that finds the max and min of array
 
 import java.util.Arrays;

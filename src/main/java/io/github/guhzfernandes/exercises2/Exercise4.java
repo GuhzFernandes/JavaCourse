@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises2;
 //Write a Java program that inserts an element into array
 
 import java.util.Arrays;

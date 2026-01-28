@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises1;
 // Write a java program that compares two numbers entered by user
 
 import java.util.Scanner;

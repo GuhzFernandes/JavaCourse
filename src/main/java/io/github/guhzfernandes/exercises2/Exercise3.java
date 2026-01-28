@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises2;
 // Write a program that removes an element from array
 
 import java.util.Arrays;

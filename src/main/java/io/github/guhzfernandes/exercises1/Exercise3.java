@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises1;
 // write a java program that compute the sum of digits of a number
 
 import java.util.Scanner;

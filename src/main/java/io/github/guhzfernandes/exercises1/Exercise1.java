@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises1;
 //Write a java program that calculates the factorial of 10
 
 public class Exercise1 {

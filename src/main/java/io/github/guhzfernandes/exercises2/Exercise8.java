@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises2;
 // Write a java program that rotates an array clockwise (move every position one forward
 
 import java.util.Arrays;

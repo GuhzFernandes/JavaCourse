@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises2;
 //Write a program in java that finds duplicate values of array
 
 import java.util.Arrays;

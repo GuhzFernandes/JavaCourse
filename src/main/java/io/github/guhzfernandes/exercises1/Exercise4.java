@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises1;
 // Write a jav aprogram that convert a string to integer and vice versa
 
 public class Exercise4 {

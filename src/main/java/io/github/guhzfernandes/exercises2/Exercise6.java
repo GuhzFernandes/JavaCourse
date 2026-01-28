@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises2;
 //Write a java program that reverses an array
 
 public class Exercise6 {

@@ -1,4 +1,4 @@
-package io.github.guhzfernandes.exercises;
+package io.github.guhzfernandes.exercises2;
 // Write a Java program that counts the letters, spaces, numbers and others characters of an input string.
 
 import java.util.Scanner;
