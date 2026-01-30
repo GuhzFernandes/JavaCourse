@@ -1,6 +1,7 @@
 # Java Learning Repository
 
-This repository contains my personal learning journey through Java, based primarily on the [**"Complete Java Developer Course – Mastering Java from Zero"**](https://www.udemy.com/course/the-complete-java-developer-course-mastering-java-from-zero/) (Udemy), along with additional exercises and experiments created to reinforce concepts where needed.
+This repository contains my personal learning journey with Java, where I reinforce concepts and explore them in more depth!  
+Based primarily on the [**"Complete Java Developer Course – Mastering Java from Zero"**](https://www.udemy.com/course/the-complete-java-developer-course-mastering-java-from-zero/) (Udemy), along with additional exercises and experiments created to reinforce concepts where needed.
 
 ## 📚 Purpose
 
